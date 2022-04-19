@@ -4,7 +4,7 @@ Coding assignment - online to-do list
 
 Sample application requires an online TODO List. This project is the frontend part of the project. Developed using React framework with JavaScript.
 
-My expertice is on backend development. The frontend is implemented to allow end users to test backend easier.
+My expertice is on backend development. The frontend is implemented to allow end users to test backend easier. This frontend requires the backend to be up and running on localhost port: 8080.
 
 
 ## Installation and Setup
